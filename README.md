@@ -80,7 +80,7 @@ credit-card-analysis/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/credit-card-analysis.git
+git clone https://github.com/RaphaelCesar/credit-card-analysis.git
 ```
 
 2. Instale as dependências:
